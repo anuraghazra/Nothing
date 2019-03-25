@@ -1,0 +1,4 @@
+program Nothing;
+begin
+  Writeln('Nothing');
+end.
