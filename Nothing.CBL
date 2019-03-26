@@ -1,6 +1,6 @@
 IDENTIFICATION DIVISION.
 PROGRAM-ID. 'Nothing'.
 PROCEDURE DIVISION.
-    DISPLAY "Nothing"
+    DISPLAY 'Nothing'
     .
 
