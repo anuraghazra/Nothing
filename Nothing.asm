@@ -1,5 +1,5 @@
 section	.text
-	global _start
+	global _start 
 _start: 
 	mov	edx, len   
 	mov	ecx, msg
