@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "rajaraghav",
+      "name": "Raja Raghav",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23502135?v=4",
+      "profile": "https://www.rajaraghav.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Nothing",
+  "projectOwner": "anuraghazra",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
