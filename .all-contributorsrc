@@ -6,6 +6,19 @@
   "commit": false,
   "contributors": [
     {
+      "login": "anuraghazra",
+      "name": "Anurag Hazra",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35374649?v=4",
+      "profile": "http://anuraghazra.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "maintenance",
+        "tool"
+      ]
+    },
+    {
       "login": "rajaraghav",
       "name": "Raja Raghav",
       "avatar_url": "https://avatars1.githubusercontent.com/u/23502135?v=4",
