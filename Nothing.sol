@@ -4,8 +4,7 @@ pragma solidity ^0.8.0;
 
 contract Nothing {
 
-    function getString() external pure returns (string memory) {
-        string memory _string = "Nothing";
-        return _string;
+    function getNothing() external pure returns (string memory) {
+        return "Nothing";
     }
 }
