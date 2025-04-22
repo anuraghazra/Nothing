@@ -53,11 +53,22 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "DarkSylver",
+      "name": "Cristian Miguel Zangaro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25886725?v=4",
+      "profile": "https://github.com/DarkSylver",
+      "contributions": [
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "Nothing",
   "projectOwner": "anuraghazra",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
