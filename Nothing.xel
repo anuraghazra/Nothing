@@ -1,0 +1,10 @@
+let text = "hing"
+const isThing = false
+
+if (isThing) {
+  text = "T" + text
+} else {
+  text = "Not" + text
+}
+
+print(text)
